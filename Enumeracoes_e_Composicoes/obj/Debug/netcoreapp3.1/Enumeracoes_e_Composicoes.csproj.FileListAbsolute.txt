@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\bin\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.exe
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\bin\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.deps.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\bin\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\bin\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\bin\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.dll
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\bin\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.pdb
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\obj\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\obj\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\obj\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\obj\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\obj\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.dll
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\obj\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.pdb
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\Enumeracoes_e_Composicoes\obj\Debug\netcoreapp3.1\Enumeracoes_e_Composicoes.genruntimeconfig.cache

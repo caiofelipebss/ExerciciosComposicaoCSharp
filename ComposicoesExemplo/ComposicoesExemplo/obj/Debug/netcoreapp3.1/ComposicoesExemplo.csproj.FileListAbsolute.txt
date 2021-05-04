@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\bin\Debug\netcoreapp3.1\ComposicoesExemplo.exe
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\bin\Debug\netcoreapp3.1\ComposicoesExemplo.deps.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\bin\Debug\netcoreapp3.1\ComposicoesExemplo.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\bin\Debug\netcoreapp3.1\ComposicoesExemplo.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\bin\Debug\netcoreapp3.1\ComposicoesExemplo.dll
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\bin\Debug\netcoreapp3.1\ComposicoesExemplo.pdb
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\obj\Debug\netcoreapp3.1\ComposicoesExemplo.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\obj\Debug\netcoreapp3.1\ComposicoesExemplo.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\obj\Debug\netcoreapp3.1\ComposicoesExemplo.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\obj\Debug\netcoreapp3.1\ComposicoesExemplo.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\obj\Debug\netcoreapp3.1\ComposicoesExemplo.dll
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\obj\Debug\netcoreapp3.1\ComposicoesExemplo.pdb
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo\ComposicoesExemplo\obj\Debug\netcoreapp3.1\ComposicoesExemplo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ComposicoesExemplo02(StringBuilder)/1.0.0": {
+        "runtime": {
+          "ComposicoesExemplo02(StringBuilder).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComposicoesExemplo02(StringBuilder)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

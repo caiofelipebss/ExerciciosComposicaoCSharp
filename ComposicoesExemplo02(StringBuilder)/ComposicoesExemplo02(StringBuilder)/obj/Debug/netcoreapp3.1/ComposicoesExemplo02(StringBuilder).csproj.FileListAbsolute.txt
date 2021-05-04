@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\bin\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).exe
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\bin\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).deps.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\bin\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\bin\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\bin\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).dll
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\bin\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).pdb
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\obj\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\obj\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\obj\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\obj\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\obj\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).dll
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\obj\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).pdb
+D:\ADS\C# Nelio Alves\Aulas\Enumeracoes_e_Composicoes\ComposicoesExemplo02(StringBuilder)\ComposicoesExemplo02(StringBuilder)\obj\Debug\netcoreapp3.1\ComposicoesExemplo02(StringBuilder).genruntimeconfig.cache
